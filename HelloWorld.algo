@@ -9,6 +9,9 @@ Algo HelloWorld {
     Creer un label avec du texte centre et contenant le texte HELLO_WORLD_TEXT
     Creer la couleur jaune
     Mettre la couleur jaune sur le label
+    // Label date
+    Creer un label avec la date du jour
+    Ajouter le label date sur la fenetre
     // Couleur de fond
     Creer la couleur cyan
     Mettre la couleur cyan en fond d'ecran
