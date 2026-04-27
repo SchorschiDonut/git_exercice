@@ -3,7 +3,7 @@ Algo HelloWorld {
   fonction principale {
     // Creation de la fenetre
     Creer une fenetre de titre HELLO_WORLD_TITLE
-    Mettre la dimension a 500, 500
+    Mettre la dimension a 350, 350
     Configurer la fenetre sur 'exitOnClose'
     // Creation du label de texte
     Creer un label avec la date du jour
@@ -18,7 +18,3 @@ Algo HelloWorld {
     Afficher la fenetre
   }
 }
-test hook
-test hook 2
-test hook 3
-// commentaire local C10
